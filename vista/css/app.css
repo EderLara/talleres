@@ -1,0 +1,18 @@
+.orange {
+ background-color:#F77122;
+ color:#ffff;
+}
+
+.green {
+ background-color:#61BF1A;
+ color: #fff;
+}
+
+.white {
+    background-color:#ffff;
+
+}
+
+#dropdownMenuButton{
+    width: 500px;
+}
