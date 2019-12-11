@@ -6,6 +6,7 @@ function loguin(apz) {
         })
         .done(function (resultado) {
             $("#acceso").html(resultado);
+            console.log(resultado);
         })
 }
 

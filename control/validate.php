@@ -34,4 +34,5 @@ if($eje->num_rows> 0){
   			 echo '<div class="col-sm-12 alert alert-danger" role="alert""><strong class="text-center font-weight-bold">El Usuario no se encuentra habilitado para asistir al taller</strong></div>';
   			break;
   	}
+  }
 ?>
