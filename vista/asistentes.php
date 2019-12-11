@@ -1,17 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php 
+include 'cabeza.php'; 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
-    <link rel="stylesheet" href="css/app.css">
-    <title>Registro taller | 2019 </title>
-</head>
-
-<body>
+?>
     <section class="jumbotron orange shadow p-3 mb-5 rounded pt-5">
         <div class="row">
             <div class="col-8">
